@@ -127,7 +127,7 @@ Sidhant Kumar
 📍 Vellore Institute of Technology (VIT)
 🎓 Data Analytics & AI Enthusiast
 📧 sidhantmkumar@gmail.com
-🔗www.linkedin.com/in/sidhant-k-1315ba289/
+🔗 https://www.linkedin.com/in/sidhant-k-1315ba289/
 
 I enjoy using data to understand people and systems — and turning analysis into actionable stories. This project reflects my approach: clear insights, clean visuals, and real-world impact.
 
